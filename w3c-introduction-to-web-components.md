@@ -1,3 +1,7 @@
+# W3C 网页组件导言
+
+翻译自[W3C Introduction to Web Components](http://www.w3.org/TR/2013/WD-components-intro-20130606/)
+
 ## 2 引言
 
 网页组件模型(Web Components)由五个部分组成：
